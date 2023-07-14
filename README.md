@@ -1,1 +1,1 @@
-# Tiinyone
+# Tinnyone
